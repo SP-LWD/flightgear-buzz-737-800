@@ -4,6 +4,8 @@
 There are some ways to download:
 1. Click |Code| and then |Download zip|, and copy files from src to `youraircraftsfolder/737-800YV/Models/Liveries-800`
 2. Faster way - using git. Open CMD or Terminal in `youraircrafts folder`. Then copy this command: 
+
+
 `git clone https://github.com/SP-LWD/flightgear-buzz-737-800.git 737-800YV/Models/Liveries-800`
   
 # Screenshots
