@@ -1,5 +1,7 @@
 # Ryanair sun (aka Buzzair) livery for 737-800 for FlightGear
-
+# NOTE
+<b>Livery callsign and probably entire livery is fictional, buzz have their livery only on MAX200s!
+Data for textures probably break license rules </b>
 # Downloading
 1. Click |Code| and then |Download zip|, and copy files from src to `youraircraftsfolder/737-800YV/Models/Liveries-800`
 # Screenshots
