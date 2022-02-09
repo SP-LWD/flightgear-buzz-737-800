@@ -1,1 +1,2 @@
 For my friends developers - you know what to add here - mine commits are on GPL v2 but you decide
+and you probably broke licensing rules, you are using data from airhex.com while their data are NOT GNU GPL
