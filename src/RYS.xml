@@ -4,8 +4,8 @@
 <sim>
     <model>
         <livery>                     
-            <name type="string">Buzz</name>
-            <texture>/Liveries-800/RYS.png</texture>
+            <name type="string">Buzz (Ryanair)</name>
+            <texture>Liveries-800/RYS.png</texture>
             <newwinglets type="bool">false</newwinglets>
             <nowinglets type="bool">false</nowinglets> 	            
         </livery>        
