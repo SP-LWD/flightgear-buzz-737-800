@@ -1,7 +1,10 @@
 # Skin Buzz dla 737-800YV do FlightGear
 Nie wiem co tu wpisać :/
 
-
+# Pobieranie
+[Link do pobrania tutaj](https://github.com/SP-LWD/flightgear-buzz-737-800/raw/main/RYS.zip)
+Pobierasz i wklejasz:
+Eksplorator plików> Dysk> Program files > Flightgear > (Tam gdzie masz 738YV) > Models > Liveries-800 > i wklejacie .png i .xml
 # Screenshoty
 ![Screenshot1](https://github.com/SP-LWD/flightgear-buzz-737-800/blob/main/Zrzut%20ekranu%202022-02-09%20112008.png)
 ![Screenshot2](https://github.com/SP-LWD/flightgear-buzz-737-800/blob/main/Zrzut%20ekranu%202022-02-09%20112030.png)
