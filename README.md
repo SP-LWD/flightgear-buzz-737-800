@@ -1,5 +1,5 @@
 # Skin Buzz dla 737-800YV do FlightGear
-Nie wiem co tu wpisać :/
+Moje pierwsze,niezbyt udane malowanie (albo bardziej próba) do flightgear, w przyszłości będzie poprawiane.
 
 # Pobieranie
 [Link do pobrania tutaj](https://github.com/SP-LWD/flightgear-buzz-737-800/raw/main/RYS.zip)
